@@ -1,0 +1,27 @@
+ IBM HR Employee Attrition Analysis 
+
+      The overall attrition rate in the company is 16.1%, with 237 out of 1,470 employees having left the organization. This suggests a moderately high turnover that warrants further investigation into root causes.
+It would be beneficial to introduce structured exit interviews to gain clarity on recurring factors that drive employees to leave. When analyzing attrition by gender,
+it was found that 17% of male employees left the company compared to 14.8% of female employees. This slight difference could be influenced by job roles or departmental
+assignments and may indicate the need to explore male-dominated roles or departments for workplace dissatisfaction.
+
+      Looking at age, attrition is highest among the youngest employees. The 18–20 age group had a staggering 57% attrition rate, while the 40–50 age group had the
+lowest at just 9%. Younger employees may be leaving due to lack of engagement, unclear career growth, or better opportunities elsewhere. Enhanced onboarding, mentorship,
+and early-career development programs could help reduce this trend. 
+
+      Among departments, Research & Development saw the largest number of employees leaving, with 133 departures, followed by Sales with 92, and Human Resources with 12.
+ While this could be due to the sheer size of the R&D department, it also raises questions about job satisfaction, leadership, or career progression in those roles. 
+ A department-level satisfaction survey might provide actionable insights.
+
+      A clear link was observed between monthly income and attrition. Employees earning less than $5,000 per month made up the majority of those who left, totaling 163
+out of 237. Meanwhile, attrition significantly dropped in higher salary brackets, with only 5 employees leaving in the $15,000–$20,000 range. This indicates that
+lower compensation is a strong driver of attrition, suggesting that salary reviews and fair pay structures could help retain employees. A similar trend is seen with
+salary hike percentages, where most employees who left had received only a 10–15% hike, while attrition declined as the hike percentage increased. This supports the idea that competitive and performance-based salary increments are essential for retention.
+
+      Educational background also appears to have a relationship with attrition. Among those who left, 89 had a Life Sciences degree, 63 came from Medical fields, and 
+35 had a Marketing background. However, since this reflects the number of people rather than percentages, it's important to normalize these findings by educational group
+size before concluding. Further analysis is required to understand if education field impacts retention. 
+
+      The data also shows that employees with no stock options (Level 0) made up the majority of those who left, at 154 employees, while only 15 employees with Level 3
+stock options left. This suggests that offering higher-level stock options can increase employee loyalty and reduce attrition.
+
